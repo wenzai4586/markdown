@@ -11,7 +11,7 @@
 + 引入
     1. 图片
         + **格式** <img>
-            + [img]
+            + [img]、<img str"">
     2. 网址：“[]("title")”
 
 分割线1 ***
@@ -49,8 +49,16 @@
         列表中的代码段
 /1. 可以避免不需要的列表
 
-可以有`printf("hallo world")`行内代码![我的图片](https://s1.ax1x.com/2020/03/17/8aJAbR.jpg)
+可以有`printf("hallo world")`行内代码
+
+我的图片(标题)![我的图片](https://s1.ax1x.com/2020/03/17/8aJAbR.jpg)
+
+
+*缺点不能改大小*
+
 ---
 简单网址格式<https://s1.ax1x.com/2020/03/17/8aJAbR.jpg>
 
-
+**可以改大小**
+* 图片格式有：
+<img src="https://s1.ax1x.com/2020/03/17/8aJAbR.jpg" width="50%" hight="50%" align="right">
