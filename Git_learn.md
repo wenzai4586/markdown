@@ -95,4 +95,3 @@ ex:     git reset --hard haxinum(only4)
 		1. mainstay
 		2. character branch
 ```
-
