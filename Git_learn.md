@@ -89,3 +89,10 @@ ex:     git reset --hard haxinum(only4)
 ```
         git clone ssh                 get the master
 ```
+- git introduction
+```
+	git has two branch:
+		1. mainstay
+		2. character branch
+```
+
