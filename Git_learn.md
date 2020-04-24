@@ -11,16 +11,28 @@
 - git init
 - git add
 ```
-    -i, --interactive     interactive picking
-    -p, --patch           select hunks interactively
-    -e, --edit            edit current diff and apply
-    -f, --force           allow adding otherwise ignored files
-    -u, --update          update tracked files
-    -N, --intent-to-add   record only the fact that the path will be added later
-    -A, --all             add changes from all tracked and untracked files
-    --refresh             don't add, only refresh the index
-    --ignore-errors       just skip files which cannot be added because of errors
-    --ignore-missing      check if - even missing - files are ignored in dry run
+	-i, --interactive     interactive picking
+	-p, --patch           select hunks interactively
+	-e, --edit            edit current diff and apply
+	-f, --force           allow adding otherwise ignored files
+	-u, --update          update tracked files
+	-N, --intent-to-add   record only the fact that the path will be added later
+	-A, --all             add changes from all tracked and untracked files
+	--refresh             don't add, only refresh the index
+	--ignore-errors       just skip files which cannot be added because of errors
+	--ignore-missing      check if - even missing - files are ignored in dry run
+	
+```
+- git all files
+	git add all 	in this directory move the untrack and modified and delete to staged  
+	git add . 	in this directory move the untrack and modified to staged
+	git add -u	in this directory move the modified and deleted to staged
+
+- git several files
+	git add *.txt	in this directory move the all *.txt to staged
+
+- git one file
+	git add 
 ```
 - git commit
 ```
@@ -94,6 +106,12 @@ ex:     git reset --hard haxinum(only4)
 	git has two branch:
 		1. mainstay
 		2. character branch
+	when you use git: the file has four status
+		   |			tracked
+  working directory|                 stage                  |  repository
+	untracked  |  unmodified  |  modified  |  staged    |  committed
+
+
+	
 ```
-> example:
 
