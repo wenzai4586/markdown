@@ -4,7 +4,7 @@
  * @Author       : yan_wen
  * @Date         : 2020-03-18 14:04:31
  * @LastEdiors   : yan_wen
- * @LastEditTime : 2020-04-21 21:46:57
+ * @LastEditTime : 2020-04-25 21:49:46
  -->
 # learn git
 ## normal handle
@@ -24,14 +24,17 @@
 	
 ```
 - git all files
+```
 	git add all 	in this directory move the untrack and modified and delete to staged  
 	git add . 	in this directory move the untrack and modified to staged
 	git add -u	in this directory move the modified and deleted to staged
-
+```
 - git several files
+```
 	git add *.txt	in this directory move the all *.txt to staged
-
+```
 - git one file
+```
 	git add 
 ```
 - git commit
