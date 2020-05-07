@@ -13,3 +13,5 @@
 > 今天是一个特别的日子。是吧。希望你可以享受这一天。卿，有这么一个故事，在每年的固定的某月某日的一个时辰里，一个人会来到这个城市，这一天，人们聚集一处天上绽放着烟花，每个人都看着这美景。而他却旁若无人的在地上的砖头上写下 forever 。一年又一年，直到人们开始注意到这个规律，他却不在来了。到如今也觉得感动。又想一个故事，一个男生去相亲，他没什么背景，却要求女生和她同甘苦，因为他自认为很努力。女生没有生气她想了想说，我不知道你口头上的努力是不是一个商品，而我为什么要相信你这个人，还有就是就算我傻了，信了你。我的家人也会阻止我。所以这是一个天一样大的难事。我这是分析自己吧，看起来并不是一个好的结果。事实吧，我觉的，历史总是不断重演，但人们总是不断犯同样的错误。
 
 > Today I was in SanMing where my parents work. They ask me to live with them, but I was in bad moon at that time, so I refuse that. And they was worried me as my disease on my face. 
+
+> Life will not compromise with you. I always in pain to miss ZJ. But life must to keep on. Believe we will have a good life. Thank you.
