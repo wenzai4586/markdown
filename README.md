@@ -15,3 +15,5 @@
 > Today I was in SanMing where my parents work. They ask me to live with them, but I was in bad moon at that time, so I refuse that. And they was worried me as my disease on my face. 
 
 > Life will not compromise with you. I always in pain to miss ZJ. But life must to keep on. Believe we will have a good life. Thank you.
+
+> I'ad addicted to my pain maybe. I should not be always in it right? But the truth is feel sad and mad when I think that.
