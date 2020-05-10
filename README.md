@@ -17,3 +17,5 @@
 > Life will not compromise with you. I always in pain to miss ZJ. But life must to keep on. Believe we will have a good life. Thank you.
 
 > I'ad addicted to my pain maybe. I should not be always in it right? But the truth is feel sad and mad when I think that.
+
+> 今天没怎么学，《西部世界》很好看。有点庄周梦蝶的意思，有哲学有翻转的剧情很有张力。
