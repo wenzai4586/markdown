@@ -19,3 +19,8 @@
 > I'ad addicted to my pain maybe. I should not be always in it right? But the truth is feel sad and mad when I think that.
 
 > 今天没怎么学，《西部世界》很好看。有点庄周梦蝶的意思，有哲学有翻转的剧情很有张力。
+
+> 我有一碗酒，可以慰风尘。该何解？读出的只是，心理的压力对身世的无奈。这酒又是什么，希望真的有这酒吧。
+闹为何意，或是世界的繁杂让人心累吧。
+
+> 对不起
